@@ -1,5 +1,4 @@
-//crear un archivo markdown que explique que son los archivos .py de este repositorio y los otros archivos jupyter notebook que se encuentran en el repositorio. 
-# Matematica-Aplicada
+ # Matematica-Aplicada
 
 # para ejecutar el codigo de este repositorio se necesita tener instalado python 3.7 o superior y jupyter notebook
 ### los archivos .py son los mismos que los archivos .ipynb pero en formato python
